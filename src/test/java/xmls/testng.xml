@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="testSuite">
+    <test name="customTest">
+        <classes>
+            <class name="TestTask"/>
+        </classes>
+    </test>
+</suite>
